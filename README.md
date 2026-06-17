@@ -44,16 +44,16 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/brandon-alfonso-5b0713371" target="_blank">
+  <a href="https://www.linkedin.com/in/brandon-alfonso-5b0713371" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="discord.com/users/742371315859587094" target="_blank">
+  <a href="https://discord.com/users/742371315859587094" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/brandon_a.m_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="brandonalfonsomoreno@gmail.com" target="_blank">
+  <a href="mailto:brandonalfonsomoreno@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
