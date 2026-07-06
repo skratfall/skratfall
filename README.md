@@ -2,13 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%A4%99,%20soy%20Brandon%20Alfonso&fontSize=56&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
-</picture>
 
 
 ###
@@ -22,7 +15,12 @@
 </div>
 
 ###
+###
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
+###
 
 
 
@@ -57,6 +55,14 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
+</picture>
 
 ###
 

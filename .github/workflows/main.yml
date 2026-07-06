@@ -7,6 +7,7 @@ on:
   push: # run on every push on the master branch
     branches:
       - main
+      -master
 
 jobs:
   generate:
