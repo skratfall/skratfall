@@ -112,7 +112,9 @@ I enjoy designing scalable systems using modern architectures.
 ![DI](https://img.shields.io/badge/Dependency%20Injection-222?style=for-the-badge&logo=&color=FFD700)
 ![MVVM](https://img.shields.io/badge/MVVM-222?style=for-the-badge&logo=&color=FFD700)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 # 🚀 Featured Projects
 
@@ -124,7 +126,15 @@ I enjoy designing scalable systems using modern architectures.
 <td width="70%">
 
 **Technologies**
-`NestJS` `React` `Python` `MySQL` `MongoDB` `Docker` `JWT` `Nginx`
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Features**
 - 🔐 Authentication
@@ -137,7 +147,7 @@ I enjoy designing scalable systems using modern architectures.
 </td>
 <td width="30%" align="center">
 
-🛒
+<div align="center"><img src="https://images.seeklogo.com/logo-png/17/3/universidad-del-valle-logo-png_seeklogo-177396.png" alt="Logo Univalle Shop" width="190"/></div>
 
 [View Project](https://github.com/skratfall/Univalle-Shop)
 
@@ -145,7 +155,9 @@ I enjoy designing scalable systems using modern architectures.
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🏋 AgendaGym
 **Native Android application for gym appointment management**
@@ -155,7 +167,14 @@ I enjoy designing scalable systems using modern architectures.
 <td width="70%">
 
 **Technologies**
-`Kotlin` `Firebase` `Jetpack Compose` `Hilt`
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-FF6D00?style=flat-square&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-FF6D00?style=flat-square&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-FF6D00?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-FF6D00?style=flat-square&logo=android&logoColor=white)
 
 **Features**
 - 🔐 Authentication
@@ -166,7 +185,9 @@ I enjoy designing scalable systems using modern architectures.
 </td>
 <td width="30%" align="center">
 
-🏋️
+<div align="center"> 
+    <img src="https://raw.githubusercontent.com/skratfall/AgendaGym/refs/heads/master/app/src/main/ic_launcher-playstore.png" width="190"/>
+</div>
 
 [View Project](https://github.com/skratfall/AgendaGym)
 
@@ -174,7 +195,9 @@ I enjoy designing scalable systems using modern architectures.
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🩺 MedConnect
 **Telemedicine platform**
@@ -184,7 +207,13 @@ I enjoy designing scalable systems using modern architectures.
 <td width="70%">
 
 **Technologies**
-`React` `TypeScript` `Zustand` `Tailwind`
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-52B0E7?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 **Features**
 - 🏥 Medical Appointments
@@ -203,7 +232,9 @@ I enjoy designing scalable systems using modern architectures.
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 📊 Academic Dashboard
 **Dashboard for academic performance**
@@ -213,7 +244,14 @@ I enjoy designing scalable systems using modern architectures.
 <td width="70%">
 
 **Technologies**
-`React` `Dashboard` `Analytics`
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
 **Features**
 - 📐 GPA Calculator
@@ -231,7 +269,10 @@ I enjoy designing scalable systems using modern architectures.
 </td>
 </tr>
 </table>
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 # 📈 GitHub Statistics
 
