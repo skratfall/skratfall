@@ -224,7 +224,9 @@ I enjoy designing scalable systems using modern architectures.
 </td>
 <td width="30%" align="center">
 
-🩺
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skratfall/medconnect/refs/heads/main/public/favicon.svg" width="190"/>
+</div>
 
 [View Project](https://github.com/skratfall/medconnect)
 
@@ -262,7 +264,9 @@ I enjoy designing scalable systems using modern architectures.
 </td>
 <td width="30%" align="center">
 
-📊
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skratfall/dashboard_academico/refs/heads/main/.github/workflows/logo-dashboard.png" width="190"/>
+</div>
 
 [View Project](https://github.com/skratfall/dashboard_academico)
 
