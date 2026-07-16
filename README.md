@@ -97,6 +97,16 @@ Relevant Areas
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 # 🏗 Software Architecture
 
 I enjoy designing scalable systems using modern architectures.
@@ -302,87 +312,80 @@ I enjoy designing scalable systems using modern architectures.
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/skratfall/skratfall/output/galaga-contribution-graph.svg">
-</picture>
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ☸️ Kubernetes | 🐰 RabbitMQ | 💾 Redis |
+| 🔄 CI/CD | ☁️ Azure | ☁️ AWS |
+| 📡 Event Driven Architecture | 🌐 Distributed Systems | |
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-# 🌱 Currently Learning
-
-- Kubernetes
-
-- RabbitMQ
-
-- Redis
-
-- CI/CD
-
-- Azure
-
-- AWS
-
-- Event Driven Architecture
-
-- Distributed Systems
-
----
-
 # 💡 Soft Skills
 
-✔ Teamwork
+<div align="center">
 
-✔ Leadership
+![Teamwork](https://img.shields.io/badge/Teamwork-4A90E2?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-7B68EE?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-50C878?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-FFD700?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-20B2AA?style=for-the-badge)
+![Project Management](https://img.shields.io/badge/Project%20Management-FF8C00?style=for-the-badge)
+</div>
 
-✔ Communication
-
-✔ Problem Solving
-
-✔ Critical Thinking
-
-✔ Adaptability
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 # 🎯 Interests
 
-Backend Development
+<div align="center">
 
-Cloud Computing
+| | | |
+|:---:|:---:|:---:|
+| 🔙 Backend Development | ☁️ Cloud Computing | 🏗️ Software Architecture |
+| 📱 Mobile Development | 🤖 Artificial Intelligence | 🚀 Open Source |
 
-Software Architecture
+</div>
 
-Mobile Development
-
-Artificial Intelligence
-
-Open Source
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 # 📚 Certifications (Future)
 
-- AWS Cloud Practitioner
+<div align="center">
 
-- Docker Certified Associate
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20Certified%20Associate-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Java-EA2D2E?style=flat-square&logo=oracle&logoColor=white)
 
-- Microsoft Azure Fundamentals
+</div>
 
-- Oracle Java
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 # 🌎 Languages
 
-🇪🇸 Spanish — Native
+<div align="center">
 
-🇺🇸 English — Intermediate (Improving every day)
+| Language | Level | Status |
+|:---:|:---:|:---:|
+| 🇪🇸 Spanish | Native | ⭐⭐⭐⭐⭐ |
+| 🇺🇸 English | Intermediate | ⭐⭐⭐⭐ 🚀 Improving |
 
----
+</div>
 
 # 📫 Contact
 
@@ -390,7 +393,7 @@ Open Source
 
 <a href="https://www.linkedin.com/in/brandondon-am-/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+</a> 
 <a href="https://github.com/skratfall">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
@@ -416,23 +419,62 @@ Open Source
 
 # ⚡ Fun Facts
 
-☕ Coffee + Music = Productivity
+<div align="center">
 
-📚 Always learning something new.
+### 🔥 The Perfect Dev Stack
+☕ Coffee + 🎵 Music + 💻 Focus = 🚀 Masterpiece
 
-💻 Passionate about Software Architecture.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
-🚀 Love building scalable applications.
+### 💪 My Commitments
 
----
+<table>
+<tr>
+<td align="center" width="33%">
 
-<h3 align="center">
+📚 **Lifelong Learner**
 
-"Programs must be written for people to read, and only incidentally for machines to execute."
+Always discovering new technologies and improving skills
 
-— Harold Abelson
+</td>
+<td align="center" width="33%">
 
-</h3>
+💻 **Architecture Enthusiast**
+
+Designing clean, scalable, and maintainable systems
+
+</td>
+<td align="center" width="33%">
+
+🚀 **Builder at Scale**
+
+Creating applications that grow and perform
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+### 📖 My Coding Philosophy
+
+<blockquote>
+
+<p align="center">
+<b>"Programs must be written for people to read, and only incidentally for machines to execute."</b>
+</p>
+
+<p align="right">
+— <i><b>Harold Abelson</b></i>
+</p>
+
+</blockquote>
+
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
