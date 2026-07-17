@@ -69,7 +69,7 @@ Relevant Areas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vite,laravel,nextjs,python,mysql,tailwind,mongodb,postgres,docker,firebase,java,kotlin,git,github,vscode,postman&perline=9"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,vite,laravel,nextjs,python,mysql,tailwind,mongodb,postgres,docker,firebase,java,php,electron,kotlin,git,github,vscode,postman&perline=9"/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
